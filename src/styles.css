@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.exp-t {
+  margin: 10px auto;
+}
+
+.exp-t td {
+  border: 1px solid black;
+  margin: 0;
+  padding: 5px;
+}
